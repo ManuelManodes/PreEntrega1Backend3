@@ -1,0 +1,1 @@
+// Este archivo contiene las funciones para manejar las operaciones relacionadas con las mascotas, incluyendo la recuperación de mascotas desde la base de datos.

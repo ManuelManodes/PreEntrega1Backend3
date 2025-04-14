@@ -1,0 +1,21 @@
+{
+  "name": "entrega-n1",
+  "version": "1.0.0",
+  "description": "Proyecto para la entrega N°1 que incluye un router para mocks y generación de datos.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.9",
+    "bcrypt": "^5.0.1",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "author": "Manuel Mañodes",
+  "license": "MIT"
+}
